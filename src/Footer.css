@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap");
+.footer {
+  display: flex;
+  flex-wrap: wrap;
+  font-family: "IM Fell English SC", serif;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 50px;
+  flex: 1;
+}
+.footer-title {
+  color: #3c83f3;
+  font-size: 30px;
+  font-weight: bold;
+}
+.footer-text {
+  color: #636e72;
+  font-size: 15px;
+  font-weight: bold;
+}
+footer-one {
+  flex: 0.25;
+}
+footer-two {
+  flex: 0.25;
+}
+footer-three {
+  flex: 0.25;
+}
+footer-four {
+  flex: 0.25;
+}
+.footer-last {
+  margin: 30px;
+  color: #3c83f3;
+}

@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap");
+.Login {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1;
+  font-family: "IM Fell English SC", serif;
+  color: #636e72;
+}
+.Login-one {
+  display: flex;
+  flex-direction: row;
+  border: 15px solid #c9dbfb;
+  border-radius: 20px;
+  flex: 0.6;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 32px;
+  background: #e2ecfd;
+}
+.Login-two {
+  /* display: flex; */
+  flex: 0.4;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+  font-size: 32px;
+}
+.Login-title {
+}
+span {
+  color: #3c83f3;
+}
+input {
+  border-radius: 20px;
+  width: fit-content;
+}
